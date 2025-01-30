@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swetha-kmr/weather-app.git/static/css/main.80fe419c.css",
+    "main.js": "/swetha-kmr/weather-app.git/static/js/main.db49a542.js",
+    "static/js/488.15ea4539.chunk.js": "/swetha-kmr/weather-app.git/static/js/488.15ea4539.chunk.js",
+    "index.html": "/swetha-kmr/weather-app.git/index.html",
+    "main.80fe419c.css.map": "/swetha-kmr/weather-app.git/static/css/main.80fe419c.css.map",
+    "main.db49a542.js.map": "/swetha-kmr/weather-app.git/static/js/main.db49a542.js.map",
+    "488.15ea4539.chunk.js.map": "/swetha-kmr/weather-app.git/static/js/488.15ea4539.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80fe419c.css",
+    "static/js/main.db49a542.js"
+  ]
+}
